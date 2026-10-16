@@ -1,6 +1,6 @@
 name: .NET Core Test Runner
 
-on:
+'on':
   push:
     branches: [ "main", "master" ]
   pull_request:
